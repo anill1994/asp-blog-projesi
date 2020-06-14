@@ -1,0 +1,16 @@
+C:\Users\anil_\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.deps.json
+C:\Users\anil_\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\anil_\source\repos\BlogApp\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\anil_\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.csprojAssemblyReference.cache
+C:\Users\anil_\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\anil_\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\anil_\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\anil_\source\repos\BlogApp\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\anil_\OneDrive\Masaüstü\filmolok\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.deps.json
+C:\Users\anil_\OneDrive\Masaüstü\filmolok\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\filmolok\BlogApp.Entity\bin\Debug\netcoreapp3.1\BlogApp.Entity.pdb
+C:\Users\anil_\OneDrive\Masaüstü\filmolok\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.csprojAssemblyReference.cache
+C:\Users\anil_\OneDrive\Masaüstü\filmolok\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\anil_\OneDrive\Masaüstü\filmolok\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\anil_\OneDrive\Masaüstü\filmolok\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.dll
+C:\Users\anil_\OneDrive\Masaüstü\filmolok\BlogApp.Entity\obj\Debug\netcoreapp3.1\BlogApp.Entity.pdb
